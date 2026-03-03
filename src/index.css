@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import 'katex/dist/katex.min.css';
+
+*{
+    user-select: none;
+    -webkit-user-drag: none;
+}
